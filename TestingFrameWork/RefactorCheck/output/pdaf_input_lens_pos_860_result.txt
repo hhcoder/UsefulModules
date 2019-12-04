@@ -1,0 +1,3 @@
+defocus_um -17 
+phase_diff -0.65 
+conf_level 795 

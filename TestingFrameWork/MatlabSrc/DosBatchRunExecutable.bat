@@ -1,0 +1,1 @@
+adb shell /data/mmcamera-dpd-test /data/dpd_config.txt

@@ -1,0 +1,6 @@
+MeanValue -0.652290
+Count 2
+Sum -1.304581
+MeanValue -0.301750
+Count 3
+Sum -0.905251

@@ -1,0 +1,29 @@
+ProjectName
+	CoreLib
+		Public - API
+		Include
+			Data
+				dim.h
+				frame.h
+				image.h
+				signal_1d.h
+				pyramid.h
+				windowing.h
+			Proc
+				filter_matching.h
+				filter_box.h
+				column_integrate.h
+				sad_matching.h
+			Misc
+				log.h
+			Arch
+				flow_base.h
+				component_base.h
+		Src
+			Tuning
+		Test
+			CmdLine
+
+	Script
+	TestSource
+	TestResult
